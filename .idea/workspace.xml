@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd3eae09-24f2-44b1-9456-a50edd29907a" name="Default Changelist" comment="fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +33,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../shixiang/www/thefair_nlp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../shixiang/www/wechat_bot" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\test1\mytest" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0c4988fc-d642-47a9-aea2-27423b607d1b" name="Default Changelist" comment="" />
+      <changelist id="cd3eae09-24f2-44b1-9456-a50edd29907a" name="Default Changelist" comment="fix" />
       <created>1630569253383</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -51,6 +55,16 @@
       <workItem from="1631155765154" duration="19000" />
       <workItem from="1631155816006" duration="596000" />
       <workItem from="1631269587836" duration="1214000" />
+      <workItem from="1634024032430" duration="1418000" />
+      <workItem from="1634177525693" duration="624000" />
+      <workItem from="1634782494922" duration="1332000" />
+      <workItem from="1635304925295" duration="661000" />
+      <workItem from="1636012743754" duration="5000000" />
+      <workItem from="1636338679722" duration="594000" />
+      <workItem from="1636339840693" duration="4607000" />
+      <workItem from="1636689040703" duration="2699000" />
+      <workItem from="1637317567422" duration="4619000" />
+      <workItem from="1637548361008" duration="2242000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1630570350850</created>
@@ -87,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631614332561</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix">
+      <created>1631616273392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631616273392</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
